@@ -43,6 +43,8 @@ them produces misleading numbers.
 
 ## Tech
 
+- **SQL (BigQuery)** — category hierarchy modeling, stock-aware active-day/OOS logic,
+  coefficient-of-variation scoring, channel reconciliation, and the MER-vs-ROAS metric split
 - **Python** — generates the polished dashboard sections as HTML/CSS, alongside Hex-native
   chart cells for the decision scatter
 - **Hex** — multi-tab dashboard hosting the Python/HTML cells and native charts
